@@ -14,3 +14,4 @@ numpy == 1.23.5
 # hopsworks_module_2/cc_features.py: 1
 # hopsworks_module_2/synthetic_data.py: 6
 pandas == 1.5.3
+nbconvert==7.3.0
